@@ -1,4 +1,4 @@
 Pranker
 =======
 
-A minecraft plugin made by [TheFoolswithTools](www.youtube.com/user/TheFoolswithTools)
+A minecraft plugin made by [TheFoolswithTools](http://www.youtube.com/user/TheFoolswithTools)
