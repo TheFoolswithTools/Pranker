@@ -1,0 +1,68 @@
+name: Pranker
+version: 7.27.13
+main: me.thefoolswithtools.prank.Prank
+author: TheFoolswithTools
+description: A simple prank plugin.
+
+commands:
+    fakeleave:
+        usage: /<command>
+        description: Fake leave
+    fakejoin:
+        usage: /<command>
+        description: Fake join
+    fakeop:
+        usage: /<command>
+        description: Fake op
+    fakedeop:
+         usage: /<command>
+         description: Fake deop
+    fakefeed:
+         usage: /<command>
+         description: Fake feed
+    fakeheal:
+         usage: /<command>
+         description: Fake heal
+    fakeeco:
+         usage: /<command>
+         description: Fake heal
+    fakechat:
+         usage: /<command>
+         description: Fake chat
+    fakeblock:
+         usage: /<command>
+         description: Fake block
+    fakegroup:
+         usage: /<command>
+         description: Fake group
+permissions:
+     prank.fakeleave:
+          description: Use this to give access too /fakeleave the server.
+          default: op
+     prank.fakejoin:
+           description: Use this to give access too /fakejoin the server.
+           default: op
+     prank.fakeop:
+           description: Use this to give access too /fakeop.
+           default: op
+     prank.fakedeop:
+           description: Use this to give access too /fakedeop.
+           default: op
+     prank.fakefeed:
+           description: Use this to give access too /fakefeed.
+           default: op
+     prank.fakeheal:
+           description: Use this to give access too /fakeheal.
+           default: op
+     prank.fakeeco:
+           description: Use this to give access too /fakeeco.
+           default: op
+     prank.fakechat:
+           description: Use this to give access too /fakechat.
+           default: op
+     prank.fakeblock:
+           description: Use this to give access too /fakeblock.
+           default: op
+     prank.fakegroup:
+           description: Use this to give access too /fakegroup.
+           default: op
